@@ -1,4 +1,5 @@
 # Operativni-sistemi_2022-2023
+## Grupa A
 Software Engineering-PTF UNZE: [PTF UNZE](www.ptf.unze.ba)
 
 -![hackerOS](https://user-images.githubusercontent.com/75080129/222385568-8b7d2758-ffa2-4ab7-ac9a-bb0ffa37d193.jpg)
